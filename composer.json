@@ -17,6 +17,7 @@
 	],
 	"require": {
 		"typo3/cms-core": ">=8.7.0 <10.4.99",
+		"tecnickcom/tcpdf": "~6.3",
 		"php": ">=7.0.0"
 	},
 	"require-dev": {
